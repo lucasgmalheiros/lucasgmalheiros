@@ -7,8 +7,7 @@
 ### :man_technologist: About me
 * :gear: Industrial engineering undergraduate at Universidade Federal de São Carlos (Federal University of São Carlos), Brazil 
 * :chart_with_upwards_trend: I like to use algorithms to solve real world problems
-* :book: I am currently dedicated to learning the C language and machine learning in Python
-* :computer: Participating in competitions on Kaggle
+* :book: I am currently studying operations research and machine learning in Python
 
 ### :u7981: Languages
 <p>
