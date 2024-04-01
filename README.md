@@ -4,12 +4,12 @@
 
 <H2 align=center>Hello, World! 👋</H2>
 
-### :man_technologist: About me
-* :gear: Industrial engineering undergraduate at Universidade Federal de São Carlos (Federal University of São Carlos), Brazil 
-* :chart_with_upwards_trend: I like to use algorithms to solve real world problems
-* :book: I am currently studying operations research and machine learning in Python
+### :man_technologist: Sobre mim
+* :gear: Estudante de engenharia de produção na Universidade Federal de São Carlos, São Carlos, Brasil 
+* :chart_with_upwards_trend: Gosto de desenvolver algoritmos para a resolução de problemas
+* :book: Atualmente desenvolvendo projetos em pesquisa operacional e machine learning em Python
 
-### :u7981: Languages
+### :u7981: Linguagens
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Java" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>&nbsp;
@@ -20,7 +20,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" width="40" height="40"/>&nbsp;
 </p>
 
-### :hammer_and_wrench: Tools
+### :hammer_and_wrench: Ferramentas
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Java" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40" height="40"/>&nbsp;
@@ -30,3 +30,9 @@
 <img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-official.svg" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>&nbsp;
 </p>
+
+
+#### :arrow_double_down: Veja meus principais projetos logo abaixo
+<div align="left">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnNkb3M3Y3d5YjJoc2x2Nmh2OTd0YzM2azUxcmhpdW9iaGVxbXNidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nCyDAXGrhbLte3gmcR/giphy.gif">
+</div>
