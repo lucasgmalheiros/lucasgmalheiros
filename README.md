@@ -5,9 +5,8 @@
 <H2 align=center>Hello, World! 👋</H2>
 
 ### :man_technologist: Sobre mim
-* :gear: Estudante de engenharia de produção na Universidade Federal de São Carlos, São Carlos, Brasil 
+* :gear: Engenhiro de produção pela Universidade Federal de São Carlos, São Carlos, Brasil 
 * :chart_with_upwards_trend: Gosto de analisar dados, propor soluções e desenvolver algoritmos para resolver problemas
-* :book: Atualmente desenvolvendo projetos em pesquisa operacional e machine learning em Python
 
 ### :u7981: Linguagens
 <p>
